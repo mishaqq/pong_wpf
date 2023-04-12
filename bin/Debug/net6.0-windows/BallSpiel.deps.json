@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BallSpiel/1.0.0": {
+        "runtime": {
+          "BallSpiel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BallSpiel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
